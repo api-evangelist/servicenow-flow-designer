@@ -3,7 +3,7 @@ name: ServiceNow Flow Designer
 description: >-
   ServiceNow Flow Designer is an enterprise workflow automation tool for building automated processes within the ServiceNow platform.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Enterprise
   - Workflow Automation
