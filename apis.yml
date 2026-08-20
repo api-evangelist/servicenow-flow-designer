@@ -18,6 +18,9 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/servicenow-flow-designer.png
 tags:
   - Enterprise
+  - Workflow-Automation
+tags_raw:
+  - Enterprise
   - Workflow Automation
 url: >-
   https://raw.githubusercontent.com/api-evangelist/servicenow-flow-designer/refs/heads/main/apis.yml
@@ -31,6 +34,8 @@ apis:
       ServiceNow Flow Designer is an enterprise workflow automation tool for building automated processes within the ServiceNow platform.
     humanURL: https://www.servicenow.com
     tags:
+      - Workflow-Automation
+    tags_raw:
       - Workflow Automation
     properties:
       - type: Documentation
