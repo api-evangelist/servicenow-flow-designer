@@ -1,4 +1,4 @@
-# ServiceNow Flow Designer (servicenow-flow-designer)
+# ServiceNow Flow Designer
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,45 +66,101 @@
 
 ServiceNow Flow Designer is an enterprise workflow automation tool for building automated processes within the ServiceNow platform.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/servicenow-flow-designer/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/servicenow-flow-designer/refs/heads/main/apis.yml)
+**Areas:** Enterprise · Workflow Automation
 
-## Scope
+## ServiceNow Flow Designer on APIs.io
 
-- **Type:** Index
+Everything profiled for ServiceNow Flow Designer is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/servicenow-flow-designer/](https://apis.io/providers/servicenow-flow-designer/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (1)
 
-- Enterprise
-- Workflow Automation
+- [ServiceNow Flow Designer](https://apis.io/apis/servicenow-flow-designer/servicenow-flow-designer/) — ServiceNow Flow Designer is an enterprise workflow automation tool for building automated processes within the ServiceNow platform.
 
-## Timestamps
+### Published properties
 
-- **Created:** Thu Mar 26 2026 20:00:00 GMT-0400 (Eastern Daylight Time)
-- **Modified:** Thu Mar 26 2026 20:00:00 GMT-0400 (Eastern Daylight Time)
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### ServiceNow Flow Designer
+Authentication, trust centre, and vulnerability disclosure.
 
-ServiceNow Flow Designer is an enterprise workflow automation tool for building automated processes within the ServiceNow platform.
+- [Servicenow Flow Designer Domain Security](https://apis.io/security/servicenow-flow-designer/servicenow-flow-designer-domain-security/)
 
-- **Human URL:** [https://www.servicenow.com](https://www.servicenow.com)
+#### Plans and pricing (1)
 
-#### Tags
+Published plans, tiers and prices.
 
-- Workflow Automation
+- [Servicenow Flow Designer Plans Pricing](https://apis.io/plans/servicenow-flow-designer/servicenow-flow-designer-plans-pricing/)
 
-#### Properties
+#### Rate limits (1)
 
-- [Documentation](https://docs.servicenow.com/bundle/flow-designer)
+Published request limits.
 
-## Common Properties
+- [Servicenow Flow Designer Rate Limits](https://apis.io/rate-limits/servicenow-flow-designer/servicenow-flow-designer-rate-limits/)
 
-- [GitHub Organization](https://github.com/ServiceNow)
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Servicenow Flow Designer Finops](https://apis.io/finops/servicenow-flow-designer/servicenow-flow-designer-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://www.servicenow.com)
 - [Documentation](https://docs.servicenow.com/bundle/flow-designer)
+- [GitHub](https://github.com/ServiceNow)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 5.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 39.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 7.9 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/servicenow-flow-designer/](https://apis.io/providers/servicenow-flow-designer/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ServiceNow Flow Designer: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/servicenow-flow-designer/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
